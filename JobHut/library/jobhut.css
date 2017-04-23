@@ -1,0 +1,114 @@
+/* LAYOUT */
+body {
+  font-family:Verdana, Arial, sans-serif;
+  font-size:12px;
+  background-color:white;
+  color:black;
+}
+.content {
+  width:800px;
+  position:absolute;
+  top:0px;
+  left:0px;
+}
+.banner {
+  width:750px;
+  height:100px;
+  position:absolute;
+  top:0px;
+  left:0px;
+  color:black;
+  font-size:36px;
+  font-weight:bold;
+  font-style:italic;
+  background-color:white;
+  background-repeat:repeat-x;
+  line-height:125px;
+  vertical-align:middle;
+  padding-left:50px;
+  border-bottom:1px solid black;
+}
+.logo {
+  position:absolute;
+  top:0px;
+  left:625px;
+}
+.leftLinks {
+  width:144px;
+  height:600px;
+  position:absolute;
+  left:8px;
+  top:101px;
+  color:black;
+  background-color:white;
+  background-image:url(fad.gif);
+  background-repeat:repeat-y;
+  background-position:right;
+  line-height:21px;
+}
+.info {
+  padding-top:10px;
+  padding:10px 10px 10px 10px;
+  position:absolute;
+  top:150px;
+  left:150px;
+}
+/* END LAYOUT */
+
+/* HEADERS */
+.pageHead {
+  width:551px;
+  height:50px;
+  position:absolute;
+  top:101px;
+  left:150px;
+  color:black;
+  background-color:white;
+  line-height:50px;
+  padding-left:99px;
+  vertical-align:middle;
+  font-size:20px;
+  font-weight:bold;
+  border-bottom:1px solid black;
+}
+.leftHead {
+  padding-top:5px;
+  padding-bottom:5px;
+  font-size:14px;
+  font-weight:bold;
+}
+/* END HEADERS */
+
+/* FORMATTING */
+.input {
+  font-family:Verdana, Arial, sans-serif;
+  font-size:12px;
+}
+.links {
+  padding-left:8px;
+}
+.good {
+  font-size:14px;
+  background-color:white;
+  color:green;
+  font-weight:bold;  
+}
+.bad {
+  font-size:14px;
+  background-color:white;
+  color:red;
+  font-weight:bold;  
+}
+
+/* END FORMATTING */
+
+/* ADS */
+.ad {
+  position:absolute;
+  top:200px;
+  left:800px;
+  width:120px;
+  height:600px;
+  border:1px solid black;
+}
+/* END ADS */

@@ -1,0 +1,4 @@
+AuthUserFile /home/yoursite/.htpasswd
+AuthType Basic
+AuthName "JobHut Admin Folder"
+Require valid-user
